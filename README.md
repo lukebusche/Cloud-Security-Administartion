@@ -4,7 +4,7 @@ Azure cloud security network diagram and scripts
 
 The files in this repository were used to configure the network depicted below.
 
-!![Azure_Network_Diagram](https://user-images.githubusercontent.com/89329304/148301750-3e7797f1-10d8-40d4-8bf7-815e506a8f05.png)
+![Azure_Network_Diagram](https://user-images.githubusercontent.com/89329304/148301750-3e7797f1-10d8-40d4-8bf7-815e506a8f05.png)
 
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the YAML_ file may be used to install only certain pieces of it, such as Filebeat.
